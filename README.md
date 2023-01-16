@@ -1,4 +1,5 @@
 # EECS-1022-Project_Guessing-Game-Android-App
+• Completed April 2nd, 2022
 
 • Capstone project for EECS 1022: Programming for Mobile Computing
 
